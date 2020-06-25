@@ -1,4 +1,4 @@
-# SparkSentiment on Tweeter
+# SparkSentiment on Twitter
 
 Project for connecting PySpark to Twitter API and then extract sentiment using Recurent NN.
 
@@ -12,4 +12,4 @@ spark.py
 -Runs two neural networks both RNN and RNN-LSTM to classify sentiment in the tweet.
 
 
-Neural networks obtained from Kaggle user paloripamonti https://www.kaggle.com/paoloripamonti/twitter-sentiment-analysis
+
